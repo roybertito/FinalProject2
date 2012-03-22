@@ -1,0 +1,90 @@
+Added Ship 1
+Time: 3 HP: 200 Attack Speed: 1
+X: 0 Y: 0 XVel: 50 YVel: 50
+Added Ship 1
+Time: 5 HP: 200 Attack Speed: 1
+X: 0 Y: 0 XVel: 50 YVel: 50
+Added Ship 1
+Time: 7 HP: 200 Attack Speed: 1
+X: 0 Y: 0 XVel: 50 YVel: 50
+Added Ship 1
+Time: 3 HP: 200 Attack Speed: 1
+X: 800 Y: 0 XVel: -50 YVel: 50
+Added Ship 1
+Time: 5 HP: 200 Attack Speed: 1
+X: 800 Y: 0 XVel: -50 YVel: 50
+Added Ship 1
+Time: 7 HP: 200 Attack Speed: 1
+X: 800 Y: 0 XVel: -50 YVel: 50
+Added Ship 4
+Time: 10 HP: 1500
+X: 0 Y: 100 XVel: 20 YVel: 0
+Added Ship 2
+Time: 10 HP: 500 Attack Speed: 2
+X: 800 Y: 0 XVel: -100 YVel: 50
+Added Ship 2
+Time: 13 HP: 500 Attack Speed: 2
+X: 800 Y: 0 XVel: -100 YVel: 50
+Added Ship 2
+Time: 16 HP: 500 Attack Speed: 2
+X: 800 Y: 0 XVel: -100 YVel: 50
+Added Ship 1
+Time: 18 HP: 200 Attack Speed: 1
+X: 400 Y: 0 XVel: -10 YVel: 50
+Added Ship 1
+Time: 20 HP: 200 Attack Speed: 1
+X: 400 Y: 0 XVel: 10 YVel: 50
+Added Ship 1
+Time: 22 HP: 200 Attack Speed: 1
+X: 400 Y: 0 XVel: -10 YVel: 50
+Added Ship 1
+Time: 24 HP: 200 Attack Speed: 1
+X: 400 Y: 0 XVel: 10 YVel: 50
+Added Ship 4
+Time: 25 HP: 1500
+X: 0 Y: 150 XVel: 20 YVel: 0
+Added Ship 3
+Time: 28 HP: 1000 Attack Speed: 1
+X: 200 Y: 0 XVel: 0 YVel: 50
+Added Ship 3
+Time: 28 HP: 1000 Attack Speed: 1
+X: 600 Y: 0 XVel: 0 YVel: 50
+Added Ship 1
+Time: 30 HP: 200 Attack Speed: 1
+X: 0 Y: 0 XVel: 50 YVel: 50
+Added Ship 1
+Time: 33 HP: 200 Attack Speed: 1
+X: 0 Y: 0 XVel: 50 YVel: 50
+Added Ship 1
+Time: 35 HP: 200 Attack Speed: 1
+X: 0 Y: 0 XVel: 50 YVel: 50
+Added Ship 1
+Time: 30 HP: 200 Attack Speed: 1
+X: 800 Y: 0 XVel: -50 YVel: 50
+Added Ship 1
+Time: 33 HP: 200 Attack Speed: 1
+X: 800 Y: 0 XVel: -50 YVel: 50
+Added Ship 1
+Time: 35 HP: 200 Attack Speed: 1
+X: 800 Y: 0 XVel: -50 YVel: 50
+Added Ship 4
+Time: 40 HP: 3000
+X: 800 Y: 100 XVel: -20 YVel: 0
+Added Ship 4
+Time: 40 HP: 3000
+X: 0 Y: 100 XVel: 20 YVel: 0
+Added Ship 5
+Time: 50 HP: 20000 Attack Speed: 2
+X: 400 Y: 0 XVel: 20 YVel: 10
+Added Ship 3
+Time: 54 HP: 500 Attack Speed: 1
+X: 200 Y: 0 XVel: 0 YVel: 50
+Added Ship 3
+Time: 54 HP: 500 Attack Speed: 1
+X: 600 Y: 0 XVel: 0 YVel: 50
+Added Ship 3
+Time: 65 HP: 500 Attack Speed: 1
+X: 200 Y: 0 XVel: 0 YVel: 50
+Added Ship 3
+Time: 65 HP: 500 Attack Speed: 1
+X: 600 Y: 0 XVel: 0 YVel: 50
