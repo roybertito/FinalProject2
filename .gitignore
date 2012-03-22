@@ -1,0 +1,16 @@
+FinalProject.xcodeproj/xcuserdata/*
+FinalProject.xcodeproj/project.xcworkspace/xcuserdata/*
+
+/FinalProject.xcodeproj/project.xcworkspace/xcuserdata/lawliet.xcuserdatad/UserInterfaceState.xcuserstate
+
+FinalProject.xcodeproj/project.xcworkspace/xcuserdata/lawliet.xcuserdatad/UserInterfaceState.xcuserstate
+
+.DS_Store
+*.swp
+*~.nib
+
+build/
+
+*.pbxuser
+*.perspective
+*.perspectivev3
